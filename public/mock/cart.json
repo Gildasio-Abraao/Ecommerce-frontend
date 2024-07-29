@@ -1,0 +1,31 @@
+{
+  "id": "12397876sadn-wq98ha",
+  "total": 805.00,
+  "subtotal": 644.00,
+  "discount": 161.00,
+  "shipping": 15.00,
+  "coupon": null,
+  "items": [
+    {
+      "id": "fagfyt-d6wqdgyvqw-12yuasd7",
+      "name": "Essencial Masculino 100ml",
+      "image": "/images/essencial-masculino-100ml.jpg",
+      "price": 212.00,
+      "quantity": 1
+    },
+    {
+      "id": "238he-9362ha-12yuasd7",
+      "name": "Luna Ousadia 75ml",
+      "image": "/images/luna-ousadia-75ml.jpg",
+      "price": 80.00,
+      "quantity": 1
+    },
+    {
+      "id": "fagfyt-d6wqdgyvqw-3412sw",
+      "name": "Essencial 02 Feminino 100ml",
+      "image": "/images/essencial-femino-100ml.jpg",
+      "price": 145.00,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "213j-23jhiu=2390j",
+    "name": "Presente Natura Momento Papai e Bebê",
+    "price": 77.90,
+    "offer": 7.90,
+    "stockQuantity": 99,
+    "rate": 4.5,
+    "image": "/images/presente-natura-momento-papai-e-bebe.jpg",
+    "description": "Presente Natura Momento Papai e Bebê"
+  },
+  {
+    "id": "213j-23jhiu-231",
+    "name": "Una Infinito 75 ml",
+    "price": 175.90,
+    "offer": 0,
+    "stockQuantity": 99,
+    "rate": 5,
+    "image": "/images/una-infinito.jpg",
+    "description": "Una Infinito 75 ml"
+  },
+  {
+    "id": "213j-d232-231",
+    "name": "Shampoo Nutritivo para Cabelos",
+    "price": 44.90,
+    "offer": 0,
+    "stockQuantity": 99,
+    "rate": 4.8,
+    "image": "/images/una-infinito.jpg",
+    "description": "Shampoo Nutritivo para Cabelos"
+  },
+  {
+    "id": "213j-d232-231",
+    "name": "Presente Natura Homem Nós",
+    "price": 169.90,
+    "offer": 0,
+    "stockQuantity": 99,
+    "rate": 4,
+    "image": "/images/presente-natura-homem-nos-com-desodorante.jpg",
+    "description": "Presente Natura Homem Nós"
+  }
+]

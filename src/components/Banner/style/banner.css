@@ -1,0 +1,24 @@
+.banner {
+  width: 100%;
+  margin: 0px auto;
+  max-width: 1360px;
+}
+
+.banner-mobile-image {
+  width: 100%;
+  display: none;
+}
+
+.banner-desktop-image {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .banner-mobile-image {
+    display: block;
+  }
+
+  .banner-desktop-image {
+    display: none;
+  }
+}
